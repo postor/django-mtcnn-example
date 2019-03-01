@@ -15,3 +15,5 @@ python app.py
 http://localhost:8080/
 
 上传带有人脸的图片
+
+![screenshot.gif](./screenshot.gif)
